@@ -1,0 +1,15 @@
+{
+  "name": "tanstack-ai-tool-error-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "tsx repro.ts"
+  },
+  "dependencies": {
+    "@tanstack/ai": "0.58.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}
